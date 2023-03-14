@@ -1,0 +1,23 @@
+{
+  "name": "testing.ahj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development",
+    "build": "webpack --mode production",
+    "lint": "eslint",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/requex22/testing.ahj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/requex22/testing.ahj/issues"
+  },
+  "homepage": "https://github.com/requex22/testing.ahj#readme"
+}
